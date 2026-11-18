@@ -36,11 +36,3 @@
 ![Requirements Gathering](https://img.shields.io/badge/Requirements%20Gathering-374151?style=for-the-badge)
 ![Solution Design](https://img.shields.io/badge/Solution%20Design-374151?style=for-the-badge)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-374151?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Polymathdave&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polymathdave&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
