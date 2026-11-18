@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Polymathdave 👋</h1>
 <p align="center"><b>Data Engineer</b> · Building reliable, scalable data pipelines on the cloud</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-mak-904785243/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
 
 ---
 
